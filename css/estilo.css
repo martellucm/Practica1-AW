@@ -3,7 +3,9 @@ div#contenedor {
 	width: auto;
 	margin: auto;
 	border: 1px solid black;
-	border-style: solid;
+	border-style: double;
+	border-width: medium;
+	height: 120px;
 	border-color: red;
 	margin-top: 30px;
 }
@@ -28,11 +30,23 @@ div#cabecera a:hover {
 	color: red;
 	font-weight: bold;
 	text-decoration: underline;
+
+}
+
+div#contenido{
+	background-color: #1C1C1C;
+}
+
+h1{
+	color: #CCEEFF;
+	font-weight: normal;
+	font-family:  Helvetica, Arial, sans-serif;
+	font-size: 35px;
 }
 
 p{
+	color: #CCEEFF;
 	text-align: center;
 	font-size: 24 px;
 	font-family:  Helvetica, Arial, sans-serif;
-	background-color: #A9E2F3;
 }
