@@ -18,8 +18,8 @@ div#cabecera a, div#cabecera a:visited {
 	color: black;
 	font-weight: bold;
 	text-decoration: none;
-	
-} 
+
+}
 img {
   	float: left;
 	}
@@ -28,5 +28,12 @@ div#cabecera a:hover {
 	color: red;
 	font-weight: bold;
 	text-decoration: underline;
-} 
+}
 
+p{
+	text-align: center;
+	text-shadow: 3px 2px black;
+	font-size: 24 px;
+	font-family:  Helvetica, Arial, sans-serif;
+	background-color: #0B615E;
+}
