@@ -24,6 +24,8 @@ div#cabecera a, div#cabecera a:visited {
 }
 img {
   	float: left;
+		width: auto;
+		height: 80px;
 }
 
 div#cabecera a:hover {
