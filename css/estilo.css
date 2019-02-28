@@ -2,11 +2,6 @@ div#contenedor {
 	height: 90px;
 	width: auto;
 	margin: auto;
-	border: 1px solid black;
-	border-style: double;
-	border-width: medium;
-	height: 120px;
-	border-color: red;
 	margin-top: 30px;
 }
 
@@ -20,19 +15,24 @@ div#cabecera a, div#cabecera a:visited {
 	color: black;
 	font-weight: bold;
 	text-decoration: none;
-
 }
-img {
-  	float: left;
-		width: auto;
-		height: 80px;
-}
-
 div#cabecera a:hover {
 	color: red;
 	font-weight: bold;
 	text-decoration: underline;
+}
 
+div#cabecera{
+	border-style: double;
+	border-width: medium;
+	height: 120px;
+	border-color: red;
+}
+
+img {
+  	float: left;
+		width: auto;
+		height: 80px;
 }
 
 h1{
