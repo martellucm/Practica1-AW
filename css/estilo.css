@@ -1,0 +1,32 @@
+div#contenedor {
+	height: 90px;
+	width: auto;
+	margin: auto;
+	border: 1px solid black;
+	border-style: solid;
+	border-color: red;
+	margin-top: 30px;
+}
+
+div#contenido {
+	padding: 30px;
+	height: 100px;
+	color: black;
+}
+
+div#cabecera a, div#cabecera a:visited {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	
+} 
+img {
+  	float: left;
+	}
+
+div#cabecera a:hover {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+} 
+
