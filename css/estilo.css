@@ -64,6 +64,8 @@ div#descpMiem{
 
 }
 .imytext p {
+	font-family: courier;
+	font-size: 12px;
 	text-align: justify;
 	
 }
