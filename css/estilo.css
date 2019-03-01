@@ -50,7 +50,7 @@ div#descpMiem{
 .imytext {
 	width: auto;
 	height: 400px;
-	border-style: ridge;
+	border-style: outset;
 	border-color:  #b12a2a;
 }
 .imytext img {
