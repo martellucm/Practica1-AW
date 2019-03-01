@@ -60,13 +60,15 @@ div#descpMiem{
 	float: left;
 	width: 800px;
 	height: 600px;
-
 }
 .imytext p {
 	padding:10px;
 	font-size: 14px;
 	text-align: justify;
-	
+}
+.fl{
+	font-size: 14px;
+	color: #b12a2a;
 }
 /*----------------------------------------------------*/
 
