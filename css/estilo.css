@@ -66,6 +66,10 @@ div#descpMiem{
 	font-size: 14px;
 	text-align: justify;
 }
+.imytext h1{
+	font-size: 16;
+	text-decoration: underline #b12a2a;
+}
 .fl{
 	font-size: 14px;
 	color: #b12a2a;
