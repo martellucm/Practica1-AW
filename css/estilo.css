@@ -28,7 +28,24 @@ div#cabecera{
 	height: 120px;
 	border-color: red;
 }
+/*Zona de estilo en la pagina de Miembros ------------*/
+div#refMiem{
+	padding: 10px;
+	float:left;
+	width: 215px;
+	height: auto;
+	background-color: C3C3C3;
+	border: white 8px ridge;
+}
 
+div#descpMiem{
+	padding: 10px;
+	float:left;
+	min-height: 600px;
+	width:850px;
+	border-left: white 5px ridge;
+}
+/*----------------------------------------------------*/
 img {
   	float: left;
 		width: auto;
