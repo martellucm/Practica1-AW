@@ -50,9 +50,10 @@ div#descpMiem{
 
 .galeria img {
 	border-style: solid;
-	border-color: red;
+	border-color: dark red;
 	position: absolute;
 	left: 0;
+	clear: both;
 	width: 400px;
 	height: 400px;
 }
