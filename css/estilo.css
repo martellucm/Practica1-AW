@@ -54,8 +54,8 @@ div#descpMiem{
 	overflow: auto;
 	border-style: double;
 	border-color:  #b12a2a;
-	background-color: #c9c7c7;
-	opacity: 0.5;
+	background-color: #b12a2a;
+	opacity: 0.1;
 
 }
 .imytext img {
