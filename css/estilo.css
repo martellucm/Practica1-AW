@@ -48,6 +48,8 @@ div#descpMiem{
 
 /*Zona de estilo en la pagina de Bocetos ------------*/
 .imytext {
+	width: 600px;
+	height: 400px;
 	border-style: solid;
 	border-color: black;
 }
