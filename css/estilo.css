@@ -54,10 +54,12 @@ div#descpMiem{
 	border-color: black;
 }
 .imytext img {
+	clear: both;
 	width: 600px;
 	height: 400px;
 }
 .imytext p {
+	float: right;
 	text-align: justify-all;
 	text-align: center;
 }
