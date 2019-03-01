@@ -45,20 +45,20 @@ div#descpMiem{
 	width:850px;
 	border-left: white 5px ridge;
 }
+
+/*Zona de estilo en la pagina de Bocetos ------------*/
 div#galeria{
-	padding: 30px;
-	height: 100px;
-	color: black;
+	background-color: red;
 	border-style: solid;
 	border-color: red;
 }
-/*----------------------------------------------------*/
 
 .galeria img {
 	float: left;
 		width: 400px;
 		height: 400px;
 }
+/*----------------------------------------------------*/
 
 img {
   	float: left;
