@@ -53,9 +53,7 @@ div#descpMiem{
 	width: auto;
 	overflow: auto;
 	border-style: double;
-	border-color:  #b12a2a;
-	background-color: #b12a2a;
-	
+	border-color:  #b12a2a;	
 }
 .imytext img {
 	float: left;
