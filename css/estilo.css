@@ -49,12 +49,13 @@ div#descpMiem{
 /*Zona de estilo en la pagina de Bocetos ------------*/
 
 .imytext {
-	clear:both;
+	/*clear:both;*/
 	width: auto;
-	min-height: 400px;
-	height: auto;
+	/*min-height: 400px;*/
+	/*height: auto;*/
 	border-style: double;
 	border-color:  #b12a2a;
+	overflow: auto;
 }
 .imytext img {
 	float: left;
