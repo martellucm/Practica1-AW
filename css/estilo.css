@@ -52,6 +52,9 @@ div#descpMiem{
 	width: 600px;
 	height: 400px;
 }
+.imytext p {
+	text-align: justify;
+}
 /*----------------------------------------------------*/
 
 img {
