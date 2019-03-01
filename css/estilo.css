@@ -49,13 +49,12 @@ div#descpMiem{
 /*Zona de estilo en la pagina de Bocetos ------------*/
 
 .imytext {
-	/*clear:both;*/
+	margin: 10px;
 	width: auto;
-	/*min-height: 400px;*/
-	/*height: auto;*/
+	overflow: auto;
 	border-style: double;
 	border-color:  #b12a2a;
-	overflow: auto;
+	
 }
 .imytext img {
 	float: left;
@@ -64,7 +63,6 @@ div#descpMiem{
 
 }
 .imytext p {
-	font-family: courier;
 	font-size: 12px;
 	text-align: justify;
 	
