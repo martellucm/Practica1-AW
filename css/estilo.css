@@ -56,13 +56,14 @@ div#descpMiem{
 	border-color:  #b12a2a;	
 }
 .imytext img {
+	padding: 10px;
 	float: left;
 	width: 600px;
 	height: 400px;
 
 }
 .imytext p {
-	margin:10px;
+	padding:10px;
 	font-size: 12px;
 	text-align: justify;
 	
