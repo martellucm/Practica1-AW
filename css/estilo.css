@@ -51,7 +51,8 @@ div#descpMiem{
 .imytext {
 	clear:both;
 	width: auto;
-	height: 400;
+	min-height: 400px;
+	height: auto;
 	border-style: double;
 	border-color:  #b12a2a;
 }
