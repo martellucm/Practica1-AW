@@ -54,9 +54,14 @@ div#descpMiem{
 	border-color:  #b12a2a;
 }
 .imytext img {
-	clear: both;
+	position: absolute;
+	top: 0;
+	left: 0;
+	
+	/*clear: both;*/
 	width: 600px;
 	height: 400px;
+
 }
 .imytext p {
 	text-align: justify;
