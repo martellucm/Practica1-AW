@@ -49,10 +49,6 @@ div#descpMiem{
 /*Zona de estilo en la pagina de Bocetos ------------*/
 
 .galeria img {
-	border-style: solid;
-	border-color: dark red;
-	position: absolute;
-	left: 0;
 	clear: both;
 	width: 400px;
 	height: 400px;
