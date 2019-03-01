@@ -17,7 +17,7 @@ div#cabecera a, div#cabecera a:visited {
 	text-decoration: none;
 }
 div#cabecera a:hover {
-	color: red;
+	color:  #b12a2a;
 	font-weight: bold;
 	text-decoration: underline;
 }
@@ -26,7 +26,7 @@ div#cabecera{
 	border-style: double;
 	border-width: medium;
 	height: 120px;
-	border-color: dark red;
+	border-color:  #b12a2a;
 }
 /*Zona de estilo en la pagina de Miembros ------------*/
 div#refMiem{
@@ -51,7 +51,7 @@ div#descpMiem{
 	width: 1200px;
 	height: 400px;
 	border-style: ridge;
-	border-color: dark red;
+	border-color:  #b12a2a;
 }
 .imytext img {
 	clear: both;
