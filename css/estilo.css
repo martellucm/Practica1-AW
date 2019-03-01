@@ -23,6 +23,7 @@ div#cabecera a:hover {
 }
 
 div#cabecera{
+	background-image: "img/header.jpeg";
 	border-style: double;
 	border-width: medium;
 	height: 120px;
