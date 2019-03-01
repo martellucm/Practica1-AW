@@ -63,19 +63,23 @@ div#descpMiem{
 	float: left;
 	width: 800px;
 	height: 600px;
+	opacity: 1;
 }
 .imytext p {
 	padding:10px;
 	font-size: 14px;
 	text-align: justify;
+	opacity: 1;
 }
 .imytext h1{
 	font-size: 16;
 	text-decoration: underline #b12a2a;
+	opacity: 1;
 }
 .fl{
 	font-size: 14px;
 	color: #b12a2a;
+	opacity: 1;
 }
 /*----------------------------------------------------*/
 
