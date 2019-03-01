@@ -49,13 +49,11 @@ div#descpMiem{
 /*Zona de estilo en la pagina de Bocetos ------------*/
 
 .imytext {
+	clear:both;
 	width: auto;
 	height: auto;
 	border-style: double;
 	border-color:  #b12a2a;
-}
-.imytext hr{
-	clear:both;
 }
 .imytext img {
 	float: left;
