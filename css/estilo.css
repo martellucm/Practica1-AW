@@ -53,7 +53,10 @@ div#descpMiem{
 	width: auto;
 	overflow: auto;
 	border-style: double;
-	border-color:  #b12a2a;	
+	border-color:  #b12a2a;
+	background-color: #c9c7c7;
+	opacity: 0.5;
+
 }
 .imytext img {
 	padding: 10px;
