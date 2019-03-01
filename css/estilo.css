@@ -45,13 +45,26 @@ div#descpMiem{
 	width:850px;
 	border-left: white 5px ridge;
 }
+div#galeria{
+	padding: 30px;
+	height: 100px;
+	color: black;
+	border-style: solid;
+	border-color: red;
+}
 /*----------------------------------------------------*/
+
+.galeria img {
+	float: left;
+		width: 400px;
+		height: 400px;
+}
+
 img {
   	float: left;
 		width: auto;
 		height: 80px;
 }
-
 
 h1{
 	font-weight: normal;
