@@ -45,6 +45,23 @@ div#descpMiem{
 	width:850px;
 	border-left: white 5px ridge;
 }
+/*Zona de estilo en la pagina de Detalles ------------*/
+div#refDetalles{
+	padding: 10px;
+	float:left;
+	width: 215px;
+	height: auto;
+	background-color: C3C3C3;
+	border: white 8px ridge;
+}
+
+div#descpDetalles{
+	padding: 10px;
+	float:left;
+	min-height: 600px;
+	width:850px;
+	border-left: white 5px ridge;
+}
 
 /*Zona de estilo en la pagina de Bocetos ------------*/
 
