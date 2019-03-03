@@ -90,6 +90,13 @@ div#descpDetalles{
 	border-left: white 5px ridge;
 }
 
+#li_title{
+	display: block;
+	background-color: #CECECE;
+	text-align: center;
+	border-bottom: white 2px ridge;
+}
+
 /*Zona de estilo en la pagina de Bocetos ------------*/
 
 .imytext {
@@ -119,7 +126,7 @@ div#descpDetalles{
 	font-size: 14px;
 	color: #b12a2a;
 }
-/*----------------------------------------------------*/
+/*Fuentes y estilos para etiquetas universales -------*/
 
 img {
   	float: left;
@@ -130,7 +137,19 @@ img {
 h1{
 	font-weight: normal;
 	font-family:  Helvetica, Arial, sans-serif;
+	font-size: 40px;
+}
+
+h2{
+	font-weight: normal;
+	font-family:  Helvetica, Arial, sans-serif;
 	font-size: 35px;
+}
+
+h3{
+	font-weight: normal;
+	font-family:  Helvetica, Arial, sans-serif;
+	font-size: 30px;
 }
 
 p{
@@ -165,9 +184,6 @@ p{
 	background-color: #DCDCDC;
 }
 
-#li_menu:last-child{
-	border-right: none;
-}
 /*Estilo Menu lateral para Miembros y Detalles -------*/
 #menu_secun{
 	list-style-type: none;
