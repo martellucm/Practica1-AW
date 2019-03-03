@@ -19,12 +19,12 @@ div#cabecera a, div#cabecera a:visited {
 div#cabecera a:hover {
 	color:  #b12a2a;
 	font-weight: bold;
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 }
 
 div#cabecera{
-	border-style: double;
-	border-width: medium;
+	/*border-style: double;
+	border-width: medium;*/
 	height: 120px;
 	border-color:  #b12a2a;
 }
@@ -97,7 +97,7 @@ div#descpDetalles{
 img {
   	float: left;
 		width: auto;
-		height: 80px;
+		height: 100px;
 }
 
 h1{
@@ -110,4 +110,34 @@ p{
 	text-align: center;
 	font-size: 24 px;
 	font-family:  Helvetica, Arial, sans-serif;
+}
+/*Zona de estilo en el menuBar------------------------*/
+#menu{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+	text-transform: uppercase;
+}
+
+#li_menu{
+	float:left;
+	border-right: 1px solid #bbb;
+	background-color: #8FBC8F;
+}
+
+#li_menu a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#li_menu a:hover{
+	background-color: #DCDCDC;
+}
+
+#li_menu:last-child{
+	border-right: none;
 }
