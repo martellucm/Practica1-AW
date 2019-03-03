@@ -32,6 +32,29 @@ div#cabecera{
 	border-color:  #b12a2a;
 }
 
+/*Zona de estilo en la pagina de Index  */
+.desc h1 {
+		padding: 30px;
+		height: 100px;
+		color: black;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-decoration: underline;
+	}
+.desc p{
+	  width: 1560px;
+	  font-size: 20px;
+	  color: black;
+	  text-align: center;
+	  line-height: 300%;
+	}
+.desc img{
+		float: left;
+		width: auto;
+		height: 250px;
+}
+
 /*Zona de estilo en la pagina de Miembros ------------*/
 div#refMiem{
 	padding: 10px;
