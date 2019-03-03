@@ -11,6 +11,8 @@ div#contenido {
 	color: black;
 }
 
+/*Seccion del estilo para la cabecera ----------------*/
+
 div#cabecera a, div#cabecera a:visited {
 	color: black;
 	font-weight: bold;
@@ -25,9 +27,11 @@ div#cabecera a:hover {
 div#cabecera{
 	/*border-style: double;
 	border-width: medium;*/
+	background-color: #EEE8AA;
 	height: 120px;
 	border-color:  #b12a2a;
 }
+
 /*Zona de estilo en la pagina de Miembros ------------*/
 div#refMiem{
 	padding: 10px;
@@ -141,3 +145,4 @@ p{
 #li_menu:last-child{
 	border-right: none;
 }
+/*Estilo Menu lateral para Miembros y Detalles -------*/
