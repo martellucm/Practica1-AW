@@ -9,5 +9,5 @@
   $_text += "\n";
   $_text += $_comment;
 
-  echo' <a href="mailto:mychustercars@gmail.com?subject='.$_reason.'&body='.$_text.'</a>';
+  echo' <a href="mailto:mychustercars@gmail.com?subject='.$_reason.'&body='.$_text.'"</a>';
  ?>
