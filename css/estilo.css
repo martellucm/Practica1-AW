@@ -65,13 +65,28 @@ div#refMiem{
 	border: white 8px ridge;
 }
 
-div#descpMiem{
+.descpMiem{
 	padding: 10px;
 	float:left;
 	min-height: 600px;
 	width:850px;
 	border-left: white 5px ridge;
 }
+
+.descpMiem h3{
+	background-color: tomato;
+	color: white;
+	margin: 15px;
+	padding: 15px;
+}
+
+.descpMiem p{
+	padding:10px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+
 /*Zona de estilo en la pagina de Detalles ------------*/
 div#refDetalles{
 	padding: 10px;
