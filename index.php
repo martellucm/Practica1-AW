@@ -7,7 +7,7 @@
   </head>
 <body>
   <div id ="contenedor">
-    <?php require'cabecera.php'?>
+	<?php require'cabecera.php'?>
     <div id ="descIndex">
       <h1> Bienvenido a MyChusterGames</h1>
       <img src="img/Logo.svg">
