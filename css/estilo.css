@@ -78,6 +78,27 @@ div#cabecera{
 	font-family: "Arial", serif;
 }
 
+/*Estilo de email + foto tipo carnet*/
+.mail_photo{
+	margin: 10px;
+	width: auto;
+	overflow: auto;
+	border-style: double;
+	border-color:  tomato;
+}
+
+.mail_photo img{
+	padding: 10px;
+	float: left;
+	width: 80px;
+	height: 80px;
+}
+
+.mail_photo p{
+	display:block;
+	float:right;
+	overflow:hidden;
+}
 
 /*Zona de estilo en la pagina de Detalles ------------*/
 .menuLeft{
