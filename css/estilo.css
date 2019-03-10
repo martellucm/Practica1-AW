@@ -1,8 +1,7 @@
 div#contenedor {
 	height: 90px;
 	width: auto;
-	margin: auto;
-	margin-top: 30px;
+	margin: 0px;
 }
 
 div#contenido {
@@ -30,6 +29,9 @@ div#cabecera{
 	background-color: #EEE8AA;
 	height: 120px;
 	border-color:  #b12a2a;
+	margin: 0px;
+	padding: 10px;
+	float: top;
 }
 
 /*Zona de estilo en la pagina de Index*/
@@ -83,6 +85,10 @@ div#cabecera{
 	margin: 10px;
 	width: 350px;
 	overflow: auto;
+	/*
+	border-style: double;
+	border-color:  tomato;
+	*/
 }
 
 .mail_photo img{
@@ -194,9 +200,10 @@ p{
 }
 /*Zona de estilo en el menuBar------------------------*/
 #menu{
+
 	list-style-type: none;
-	margin: 0;
-	padding: 0;
+	margin: 0px;
+	padding-top: 80px;
 	overflow: auto;
 	text-transform: uppercase;
 }
