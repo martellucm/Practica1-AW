@@ -6,7 +6,7 @@
   $_filename = 'formuExit.txt';
 
   if(isset($_POST['enviar'])){
-  	if(isset($_POST['check_terms']) && $_POST['check_terms'] == 'Yes'){ //Comprobamos que el checkbox esté activado.
+  	if(isset($_POST['check_terms']) && $_POST['check_terms'] == '1'){ //Comprobamos que el checkbox esté activado.
   	  /*Creamos una plantilla para darle un formato legible*/
   	  $_text="";
   	  $_text .="Mi nombre es " .$_name." me comunico con ustedes con el asunto '".$_reason."'\n".$_comment."\nPara contactar conmigo hágalo a través de este email: ".$_email;
