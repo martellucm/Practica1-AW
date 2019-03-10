@@ -29,9 +29,9 @@
         </div>
         <textarea name="comment_textarea" form="contact_us" rows="8" cols="80" required></textarea>
         <div id="terms_in">
-          <input type="checkbox" id="check_terms"><label for="check_terms">Si hace click acepta usted los términos y condiciones de MyChusterTM.</label>
+          <input type="checkbox" name="check_terms"><label for="check_terms">Si hace click acepta usted los términos y condiciones de MyChusterTM.</label>
         </div>
-        <input type="submit" value="Enviar">
+        <input type="submit" name="enviar" value="Enviar">
       </form>
       </div>
 		</div>
