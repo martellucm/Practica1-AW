@@ -48,17 +48,21 @@
 			</p>
 
 		<h3 id="tusu"> Tipos de usuario </h3>
-			<p> Tendremos dos tipos de usuarios: </p>
+			<p> Tendremos tres tipos de usuarios: </p>
 			<p>
-				Administrador: estos usuarios son los encargados de actualizar las puntuaciones en el ranking, comprobar los comentarios
+				- Administrador: estos usuarios son los encargados de actualizar las puntuaciones en el ranking, comprobar los comentarios
 				del foro para evitar bullying y/o posible phising (entre otras cosas), y añadir juegos nuevos. Conforme vaya creciendo
 				la página, se le irán asignando nuevos roles. Pueden participar en los torneos.
 			</p>
 			<p>
-				Usuario normal: este usaurio puede ver tanto el ranking actual, ganadores de los torneos, y ganadores desde el comienzo de
+				- Usuario normal: este usaurio puede ver tanto el ranking actual, ganadores de los torneos, y ganadores desde el comienzo de
 				los tiempos. Tendrá, en función de su puntuación y antigüedad, una distinción para que otros usuarios al ver que
 				tendrán que jugar contra él le teman. Las distinciones se explicarán más adelante, cuando haya un consenso. Podrán
 				inscribirse en los torneos en los que participar libremente.
+			</p>
+			<p>
+				- Usuario sin registrar: este usuario podrá navegar libremente por el apartado de productos (sin poder escribir valoración alguna),
+				y podrá consultar las puntuaciones de los torneos, aunque no podrá valorar posiciones a la hora de finalizar un torneo.
 			</p>
 
 		<h3 id="pyt"> Partidas y torneos </h3>
