@@ -35,7 +35,7 @@ div#cabecera{
 }
 
 /*Zona de estilo en la pagina de Index*/
-#descIndex h1 {
+.descIndex h1 {
 		padding: 30px;
 		height: 100px;
 		color: black;
@@ -44,14 +44,14 @@ div#cabecera{
 		align-items: center;
 		text-decoration: underline;
 	}
-#descIndex p{
-	  width: 1560px;
+.descIndex p{
 	  font-size: 20px;
 	  color: black;
-	  text-align: center;
-	  line-height: 300%;
+	  padding:30px;
+      text-align: center;
+      line-height: 150%;
 	}
-#descIndex img{
+.descIndex img{
 		float: left;
 		width: auto;
 		height: 250px;
