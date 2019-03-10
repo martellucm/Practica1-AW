@@ -122,7 +122,7 @@ div#cabecera{
 	text-align: center;
 }
 
-div#descpDetalles{
+.descpDetalles{
 	padding: 10px;
 	float:left;
 	min-height: 600px;

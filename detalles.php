@@ -23,7 +23,7 @@
         </ul>
       </div>
 
-      <div id="descpDetalles">
+      <div class="descpDetalles">
         <h3 id="intro"> Introducción </h3>
 			<p> Comenzaremos por decir lo BÁSICO de nuestra web, pasando por lo que nos hace únicos, y para qué sirve. </p>
 			<p>
