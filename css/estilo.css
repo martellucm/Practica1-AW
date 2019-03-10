@@ -22,7 +22,6 @@ div#cabecera a:hover {
 	font-weight: bold;
 	/*text-decoration: underline;*/
 }
-
 div#cabecera{
 	/*border-style: double;
 	border-width: medium;*/
@@ -129,6 +128,18 @@ div#descpDetalles{
 	min-height: 600px;
 	width:850px;
 	border-left: white 5px ridge;
+}
+.descpDetalles h3{
+	background-color: tomato;
+	color: white;
+	margin: 15px;
+	padding: 15px;
+}
+.descpDetalles p{
+	padding:10px;
+	font-size: 18px;
+	text-align: justify;
+	font-family: "Arial", serif;
 }
 
 #li_title{
