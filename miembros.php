@@ -19,16 +19,18 @@
     </div>
     <div id="contenido">
       <div class="descpMiem">
+        <!-- Sección Daniel -->
         <h3 id="danId"> Daniel Grado Guerrero </h3>
-          <div class="mail_photo">
+          <div class="mail_photo"> <!-- Se añade una sección para manejarlos por separado-->
             <img src="img/p_photos/daniel_carnet.jpg">
-            <p>  Correo:<a href="mailto:danigrad@ucm.es" target="_top">danigrad@ucm.es</a> </p>
+            <p>  Correo:<a href="mailto:danigrad@ucm.es" target="_top">danigrad@ucm.es</a> </p> <!-- redirige a la aplicacion predeterminada para mandar correos electrónicos-->
           </div>
           <p>
             Los gustos de Daniel se definen por una auténtica pasión por los trenes. Este miembro de nuestra empresa
             es miembro honorario de la Federación Española de Asociaciones de Amigos del Ferrocarril. Cuenta con la
             mayor colección de tipos de lirios, la cual puedes encontrar en su propio jardín botánico.
           </p>
+        <!-- Sección Jesús -->
         <h3 id ="jesId"> Jesús Álvarez Coll </h3>
           <div class="mail_photo">
             <img src="img/p_photos/jesus_carnet.jpg">
@@ -40,6 +42,7 @@
             de aplicaciones en mensajería. Probablemente el miembro más anciano de la compañía con actitud positiva ante
             todo desafío.
           </p>
+        <!-- Sección Miguel -->
         <h3 id="migId"> Miguel Artell Moreno </h3>
           <div class="mail_photo">
             <img src="img/p_photos/miguel_carnet.jpg">
@@ -50,7 +53,8 @@
             "MyChuster - Sketch" donde puedes sacar toda tu creatividad diseñando las imágenes más creativas. Gran admirador
             de la pizza hawaiana.
           </p>
-        <h3 id="ritId"> Rita Estevez Rodriguez </h3>
+        <!-- Sección Rita -->
+        <h3 id="ritId"> Rita Estévez Rodríguez </h3>
           <div class="mail_photo">
             <img src="img/p_photos/rita_carnet.jpg">
             <p>  Correo:<a href="mailto:ritaeste@ucm.es" target="_top">ritaeste@ucm.es</a> </p>
@@ -60,6 +64,7 @@
             los viernes en La Tabacalera. Dispone de ni más ni menos que 28 tatuajes gracias a los descuentos del Black Friday.
             Su color favorito es el rosa y se desvive por él.
           </p>
+        <!-- Sección Victor -->
         <h3 id="vicId"> Victor Tello Carrascal </h3>
           <div class="mail_photo">
             <img src="img/p_photos/victor_carnet.jpg">
