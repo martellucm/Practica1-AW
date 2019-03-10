@@ -49,7 +49,7 @@
 	<h3 id="tusu"> Tipos de usuario </h3>
 		<p> Tendremos tres tipos de usuarios: </p>
 		<p>
-			- Administrador: estos usuarios son los encargados de actualizar las puntuaciones en el ranking, comprobar los comentarios
+			- Administrador: estos usuarios son los encargados de comprobar las puntuaciones en el ranking, comprobar los comentarios
 			del foro para evitar bullying y/o posible phising (entre otras cosas), y añadir juegos nuevos. Conforme vaya creciendo
 			la página, se le irán asignando nuevos roles. Pueden participar en los torneos.
 		</p>
