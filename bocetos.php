@@ -7,8 +7,8 @@
 <body>
 	<div id ="contenedor">
     <?php require'cabecera.php'?>
-    <div class="imytext">
-    	<p>Vistas para usuario estándar</p>
+    <div class="titu">
+    	<h3>Vistas para usuario estándar</h3>
     </div>
 	<div class="imytext">
 		<img src="img/home.png">
@@ -156,8 +156,8 @@
 			<p><span class="fl">Semifinals:</span> Ronda de semifinales, será una tabla con el mismo funcionamiento que la de "qualifying phase".</p>
 			<p><span class="fl">final Round:</span> Fase final, representada por la imagen de una mesa en la que se indicará el sitio exacto donde se sentarán los jugadores.</p>
 	</div>
-	<div class="imytext">
-    	<p>Vistas adicionales para administrador</p>
+	<div class="titu">
+    	<h3>Vistas adicionales para administrador</h3>
     </div>
     <div class="imytext">
 		<img src="img/admin/admin-products page.png">

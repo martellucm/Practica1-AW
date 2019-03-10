@@ -9,26 +9,27 @@
     <?php require'cabecera.php'?>
     	<div id="contenido">
 
-    		<h1>Tabla de planificación: </h1>
+    		<div class = "titu" ><h3>Tabla de planificación </h3> </div>
+    		<div class="beg" >
     <p>  En este apartado, mostramos una breve título y desglose de las entregas y como hemos repartido los apartados. En clase comentamos que parte nos gustaría realizar a cada uno, y procedemos a valorarlo los domingos en una sesión de Skype, intentando ser lo más justos. Como veremos a continuación hemos hecho una pequeña retrospección a las primeras entregas de documentos de la práctica para mostrar una continuidad en nuestro proyecto. Asimismo nuestra página se estructura en los siguientes apartados: 
-    </p>
-    		<p> <div class="imytext" >
-    		1. Usuarios (cliente y admin).</p> 
+    </p> </div>
+    		  <div class = "imytext"><p>
+    		1. Usuarios (cliente y admin).</p><p>
     		   El organizador de este punto es Miguel Artell, <a href="mailto:martell@ucm.es" target="_top">martell@ucm.es </a> tendrá que crear la plataforma de "perfil" tanto para los administradores como para los usuarios de la página explicada más minuciosamente en el apartado detalles. Ambos tipos de perfil tendrán que constar en la base de datos de nuestro sistema. 
     		</p></div> 
-    	<p><div class="imytext" >
+    	<div class="imytext" ><p>
     		2. Organización Torneos.</p> <p>
 			El organizador de este punto es Daniel Grado,<a href="mailto:danigrad@ucm.es" target="_top">danigrad@ucm.es</a> tendrá que crear la plataforma de "torneo", abordando tareas como la creación e inscripción de los distintos tipos de torneos (véase detalles) con sus respectivas restricciones. Cada torneo deberá constar en la base de datos de nuestro sistema.
 		</p></div>
-		<p><div class="imytext" >
+		<div class="imytext" ><p>
     		3. Ranking/ Resultado Torneos.</p> <p>
     		La organizadora de este punto es Rita Estévez,<a href="mailto:ritaeste@ucm.es" target="_top">ritaeste@ucm.es</a> tendrá que crear la formulario que se genera al finalizar o en el transcurso del torneo, para que cada participante pueda introducir su posicionamiento en el torneo. Asimismo se actualizarán tanto las páginas de ranking del mes y global. El ranking formará parte de nuestra base de datos.
     	</p></div>
-          <p> <div class="imytext" >
+          <div class="imytext" > <p>
     		4. Producto. </p> <p>
     		El organizador de este punto es Jesús Álvarez,<a href="mailto:jealvare@ucm.es" target="_top">jealvare@ucm.es</a> tendrá que dar soporte a la parte comercial de nuestro proyecto, los productos. Deberá crear la página inicial que será una lista ordenable de los juegos que están disponibles en nuestra página así como las descripciones, valoraciones y demás. Los productos deberán constar en nuestra base de datos. 
     	</p></div>
-    	<p> <div class="imytext" >
+    	  <div class="imytext" >  <p>
     		5. Foro. </p> <p>
     		El organizador de este punto es Victor Tello, <a href="mailto:victello@ucm.es" target="_top">victello@ucm.es</a> 
     		tendrá que dar soporte al foro que deseamos implementar, pese a que nos han sugerido reutilizar un foro de otra página, nos parece importante darle nuestro toque personal. Constará de diferentes secciones para los diferentes tópicos que se discutirán en él. Todo lo incluido en el foro constará también en nuestra base de datos. 

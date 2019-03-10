@@ -190,8 +190,8 @@
 		margin: 10px;
 		width: auto;
 		overflow: auto;
-		border-style: double;
-		border-color:  #b12a2a;
+		border-style: outset;
+		border-color:  tomato;
 
 	}
 	.imytext img {
@@ -202,20 +202,33 @@
 	}
 	.imytext p {
 		padding:10px;
-		font-size: 14px;
+		font-size: 18px;
 		text-align: justify;
 		margin-top: 0px;
 		margin-bottom: 0px;
+		font-family: "Arial", serif;
 	}
+	
 	.imytext h1{
-		font-size: 16;
-		text-decoration: underline #b12a2a;
+		font-size: 20px;
+		text-decoration: underline tomato;
+	}
+	.imytext h2{
+		font-size: 28px;
+		text-align: center;
+	}
+	.imytext h3{
+		background-color: tomato;
+		color: white;
+		margin: 15px;
+		padding: 15px;
 	}
 	.fl{
-		font-size: 14px;
-		color: #b12a2a;
+		font-size: 18px;
+		color: tomato;
 		margin-bottom: 0px;
 		margin-top: 0px;
+		font-family: "Arial", serif;
 	}
 
 /*Zona de estilo en el menuBar------------------------*/
@@ -358,11 +371,27 @@
 	
 	/*Hoja planificacion*/
 	table, th, td {
-  border: 1px solid black;
-  padding: 20px;
-   margin-left:auto; 
-  margin-right:auto;
-}
+  		border: 1px solid black;
+  		padding: 20px;
+   		margin-left:auto; 
+	 	margin-right:auto;
+  		font-size: 18px;
+		font-family: "Arial", serif;
+	}
+	.titu h3{
+		background-color: tomato;
+		color: white;
+		margin: 15px;
+		padding: 15px;
+	}
+	.beg  p {
+		padding:10px;
+		font-size: 18px;
+		text-align: justify;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		font-family: "Arial", serif;
+	}
 	tr{
 		text-align: center;
 		padding: 20px;
