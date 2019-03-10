@@ -1,267 +1,249 @@
-div#contenedor {
-	height: 90px;
-	width: auto;
-	margin: 0px;
-}
+/*
+*	HOJA DE ESTILOS PRÁCTICA 1
+*/
 
-div#contenido {
-	padding: 30px;
-	height: 100px;
-	color: black;
-}
+
+/*Sección del estilo para el contenedor en general----*/
+
+		div#contenedor {
+			height: 90px;
+			width: auto;
+			margin: 0px;
+		}
+
+/*Sección del estilo para el contenido --------------*/
+
+		div#contenido {
+			padding: 30px;
+			height: 100px;
+			color: black;
+		}
 
 /*Seccion del estilo para la cabecera ----------------*/
 
-div#cabecera a, div#cabecera a:visited {
-	color: black;
-	font-weight: bold;
-	text-decoration: none;
-}
-div#cabecera a:hover {
-	color:  #b12a2a;
-	font-weight: bold;
-	/*text-decoration: underline;*/
-}
-div#cabecera{
-	/*border-style: double;
-	border-width: medium;*/
-	background-color: #EEE8AA;
-	height: 120px;
-	border-color:  #b12a2a;
-	margin: 0px;
-	padding: 10px;
-	float: top;
-}
+	div#cabecera a, div#cabecera a:visited {
+		color: black;
+		font-weight: bold;
+		text-decoration: none;
+	}
+	div#cabecera a:hover {
+		color:  #b12a2a;
+		font-weight: bold;
+	}
+	div#cabecera{
+		background-color: #EEE8AA;
+		height: 120px;
+		border-color:  #b12a2a;
+		margin: 0px;
+		padding: 10px;
+		float: top;
+	}
 
 /*Zona de estilo en la pagina de Index*/
-.descIndex h1 {
-		padding: 30px;
-		height: 100px;
-		color: black;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		text-decoration: underline;
+
+	.descIndex h1 {
+			padding: 30px;
+			height: 100px;
+			color: black;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			text-decoration: underline;
+		}
+	.descIndex p{
+		  font-size: 20px;
+		  color: black;
+		  padding:30px;
+		  text-align: center;
+		  line-height: 150%;
+		}
+	.descIndex img{
+			float: left;
+			width: auto;
+			height: 250px;
 	}
-.descIndex p{
-	  font-size: 20px;
-	  color: black;
-	  padding:30px;
-      text-align: center;
-      line-height: 150%;
-	}
-.descIndex img{
-		float: left;
-		width: auto;
-		height: 250px;
-}
 
 /*Zona de estilo en la pagina de Miembros ------------*/
-.descpMiem{
-	padding: 10px;
-	float:left;
-	min-height: 600px;
-	width:850px;
-	border-left: white 5px ridge;
-}
 
-.descpMiem h3{
-	background-color: tomato;
-	color: white;
-	margin: 15px;
-	padding: 15px;
-}
+	.descpMiem{
+		padding: 10px;
+		float:left;
+		min-height: 600px;
+		width:850px;
+		border-left: white 5px ridge;
+	}
 
-.descpMiem p{
-	padding:10px;
-	font-size: 18px;
-	text-align: justify;
-	font-family: "Arial", serif;
-}
+	.descpMiem h3{
+		background-color: tomato;
+		color: white;
+		margin: 15px;
+		padding: 15px;
+	}
+
+	.descpMiem p{
+		padding:10px;
+		font-size: 18px;
+		text-align: justify;
+		font-family: "Arial", serif;
+	}
 
 /*Estilo de email + foto tipo carnet*/
-.mail_photo{
-	margin: 10px;
-	width: 350px;
-	overflow: auto;
-	/*
-	border-style: double;
-	border-color:  tomato;
-	*/
-}
 
-.mail_photo img{
-	padding: 10px;
-	float: left;
-	width: 80px;
-	height: 80px;
-}
+	.mail_photo{
+		margin: 10px;
+		width: 350px;
+		overflow: auto;
+	}
 
-.mail_photo p{
-	display:block;
-	float:right;
-	overflow:hidden;
-}
+	.mail_photo img{
+		padding: 10px;
+		float: left;
+		width: 80px;
+		height: 80px;
+	}
+
+	.mail_photo p{
+		display:block;
+		float:right;
+		overflow:hidden;
+	}
 
 /*Zona de estilo en la pagina de Detalles ------------*/
-.menuLeft{
-	padding: 10px;
-	float:left;
-	width: 215px;
-	height: auto;
-	background-color: C3C3C3;
-	border: white 8px ridge;
-}
 
-.menuLeft h3{
-	background-color: #6C3339;
-	border-bottom: 1px black;
-	color: white;
-	margin: 0px;
-	padding: 15px;
-	text-align: center;
-}
+	.descpDetalles{
+		padding: 10px;
+		float:left;
+		min-height: 600px;
+		width:850px;
+		border-left: white 5px ridge;
+	}
+	.descpDetalles h3{
+		background-color: tomato;
+		color: white;
+		margin: 15px;
+		padding: 15px;
+	}
+	.descpDetalles p{
+		padding:10px;
+		font-size: 18px;
+		text-align: justify;
+		font-family: "Arial", serif;
+	}
 
-.descpDetalles{
-	padding: 10px;
-	float:left;
-	min-height: 600px;
-	width:850px;
-	border-left: white 5px ridge;
-}
-.descpDetalles h3{
-	background-color: tomato;
-	color: white;
-	margin: 15px;
-	padding: 15px;
-}
-.descpDetalles p{
-	padding:10px;
-	font-size: 18px;
-	text-align: justify;
-	font-family: "Arial", serif;
-}
+	#li_title{
+		display: block;
+		background-color: #CECECE;
+		text-align: center;
+		border-bottom: white 2px ridge;
+	}
 
-#li_title{
-	display: block;
-	background-color: #CECECE;
-	text-align: center;
-	border-bottom: white 2px ridge;
-}
+/*Estilo Menu lateral para Miembros y Detalles -------*/
+
+	.menuLeft{
+		padding: 10px;
+		float:left;
+		width: 215px;
+		height: auto;
+		background-color: C3C3C3;
+		border: white 8px outset;
+	}
+
+	.menuLeft h3{
+		background-color: #6C3339;
+		border-bottom: 1px black;
+		color: white;
+		margin: 0px;
+		padding: 15px;
+		text-align: center;
+	}
+
+	.menuLeft ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: auto;
+		width: 200px;
+		text-transform: uppercase;
+	}
+
+	.menuLeft li{
+		background-color: #D3D3D3;
+	}
+
+	 .menuLeft li a{
+		display: block;
+		color: #000;
+		padding: 8px 16px;
+		text-decoration: none;
+	}
+
+	.menuLeft li a:hover{
+		background-color: #555;
+		color: white;
+	}
+
 
 /*Zona de estilo en la pagina de Bocetos ------------*/
 
-.imytext {
-	margin: 10px;
-	width: auto;
-	overflow: auto;
-	border-style: double;
-	border-color:  #b12a2a;
-
-}
-.imytext img {
-	padding: 10px;
-	float: left;
-	width: 800px;
-	height: 600px;
-}
-.imytext p {
-	padding:10px;
-	font-size: 14px;
-	text-align: justify;
-}
-.imytext h1{
-	font-size: 16;
-	text-decoration: underline #b12a2a;
-}
-.fl{
-	font-size: 14px;
-	color: #b12a2a;
-}
-/*Fuentes y estilos para etiquetas universales -------*/
-
-img {
-  	float: left;
+	.imytext {
+		margin: 10px;
 		width: auto;
-		height: 100px;
-}
+		overflow: auto;
+		border-style: double;
+		border-color:  #b12a2a;
 
-h1{
-	font-weight: normal;
-	font-family:  Helvetica, Arial, sans-serif;
-	font-size: 40px;
-}
+	}
+	.imytext img {
+		padding: 10px;
+		float: left;
+		width: 800px;
+		height: 600px;
+	}
+	.imytext p {
+		padding:10px;
+		font-size: 14px;
+		text-align: justify;
+	}
+	.imytext h1{
+		font-size: 16;
+		text-decoration: underline #b12a2a;
+	}
+	.fl{
+		font-size: 14px;
+		color: #b12a2a;
+	}
 
-h2{
-	font-weight: normal;
-	font-family:  Helvetica, Arial, sans-serif;
-	font-size: 35px;
-}
-
-h3{
-	font-weight: normal;
-	font-family:  Helvetica, Arial, sans-serif;
-	font-size: 30px;
-}
-
-p{
-	text-align: center;
-	font-size: 24 px;
-	font-family:  Helvetica, Arial, sans-serif;
-}
 /*Zona de estilo en el menuBar------------------------*/
-#menu{
 
-	list-style-type: none;
-	margin: 0px;
-	padding-top: 80px;
-	overflow: auto;
-	text-transform: uppercase;
-}
+	.navMenu ul{
+		list-style: none;
+		margin: 0px;
+		padding-top: 85px;
+		text-transform: uppercase;
+	}
 
-#li_menu{
-	float:left;
-	border-right: 1px solid #bbb;
-	background-color: #8FBC8F;
-}
+	.navMenu ul li{
+		float:left;
+		width: 150px;
+		height: 40px;
+		background-color: #8FBC8F;
+		opacity: .8;
+		line-height: 40px;
+		text-align: center;
+		font-size: 17px;
+		border: 1px white outset;
 
-#li_menu a{
-	display: block;
-	color: white;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-}
+	}
 
-#li_menu a:hover{
-	background-color: #DCDCDC;
-}
+	.navMenu ul li a{
+		display: block;
+		color: white;
+		text-decoration: none;
+	}
 
-/*Estilo Menu lateral para Miembros y Detalles -------*/
-.menuLeft ul{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: auto;
-	width: 200px;
-	text-transform: uppercase;
-}
-
-.menuLeft li{
-	background-color: #D3D3D3;
-}
-
- .menuLeft li a{
-	display: block;
-	color: #000;
-	padding: 8px 16px;
-	text-decoration: none;
-}
-
-.menuLeft li a:hover{
-	background-color: #555;
-	color: white;
-}
+	.navMenu ul li a:hover{
+		background-color: #DCDCDC;
+	}
 
 /*Estilo pagina de contacto --------------------------*/
 
@@ -272,7 +254,7 @@ p{
 		text-decoration: none;
 		text-transform: uppercase;
 	}
- .contact_us h2{
+	.contact_us h2{
 	 color: #CECECE;
 	 text-decoration: underline;
 	}
@@ -313,4 +295,36 @@ p{
 		height: auto;
 		width: 200px;
 		margin: 4px 2px;
+	}
+
+	/*Fuentes y estilos para etiquetas universales -------*/
+
+	img {
+		float: left;
+			width: auto;
+			height: 100px;
+	}
+
+	h1{
+		font-weight: normal;
+		font-family:  Helvetica, Arial, sans-serif;
+		font-size: 40px;
+	}
+
+	h2{
+		font-weight: normal;
+		font-family:  Helvetica, Arial, sans-serif;
+		font-size: 35px;
+	}
+
+	h3{
+		font-weight: normal;
+		font-family:  Helvetica, Arial, sans-serif;
+		font-size: 30px;
+	}
+
+	p{
+		text-align: center;
+		font-size: 24 px;
+		font-family:  Helvetica, Arial, sans-serif;
 	}

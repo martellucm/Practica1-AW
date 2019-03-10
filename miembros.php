@@ -7,17 +7,17 @@
 <body>
   <div id ="contenedor">
     <?php require'cabecera.php'?>
+    <div class="menuLeft">
+      <h3> Miembros del grupo</h3>
+      <ul>
+        <li><a href="#danId">Daniel Grado Guerrero</a></li>
+        <li><a href ="#jesId">Jesús Álvarez Coll</a></li>
+        <li><a href="#migId">Miguel Artell Moreno</a></li>
+        <li><a href="#ritId">Rita Estevez Rodriguez</a></li>
+        <li><a href="#vicId">Victor Tello Carrascal</a></li>
+      </ul>
+    </div>
     <div id="contenido">
-      <div class="menuLeft">
-      	<h3> Miembros del grupo</h3>
-        <ul>
-          <li><a href="#danId">Daniel Grado Guerrero</a></li>
-          <li><a href ="#jesId">Jesús Álvarez Coll</a></li>
-          <li><a href="#migId">Miguel Artell Moreno</a></li>
-          <li><a href="#ritId">Rita Estevez Rodriguez</a></li>
-          <li><a href="#vicId">Victor Tello Carrascal</a></li>
-        </ul>
-      </div>
       <div class="descpMiem">
         <h3 id="danId"> Daniel Grado Guerrero </h3>
           <div class="mail_photo">
