@@ -13,6 +13,8 @@
 
   	  /*Metemos en el fichero nombrado la plantilla generada.*/
   	  file_put_contents($_filename, $_text);
+	    echo'<script type="text/javascript">alert("Todo salió correctamente :)");</script>'; //Ejecutamos un script de información
+
   	}
   	else{
   		echo'<script type="text/javascript">alert("¡HAY QUE ACEPTAR LOS TÉRMINOS!");</script>'; //Ejecutamos un script de información
