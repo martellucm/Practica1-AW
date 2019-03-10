@@ -11,14 +11,6 @@
 			margin: 0px;
 		}
 
-/*Sección del estilo para el contenido --------------*/
-
-		div#contenido {
-			padding: 30px;
-			height: 100px;
-			color: black;
-		}
-
 /*Seccion del estilo para la cabecera ----------------*/
 
 	div#cabecera a, div#cabecera a:visited {
