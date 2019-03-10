@@ -19,5 +19,5 @@
   	}
   }
 
-	echo'<h1><a href="contacto.php">Return</a></h1>'; //Retornamos a la página de contacto
+  require('contacto.php'); //Retornamos a la página de contacto
  ?>
