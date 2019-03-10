@@ -353,5 +353,17 @@
 	p{
 		text-align: center;
 		font-size: 24 px;
-		font-family:  Helvetica, Arial, sans-serif;
+		font-family: "Arial", serif ;
 	}
+	
+	/*Hoja planificacion*/
+	table, th, td {
+  border: 1px solid black;
+  padding: 20px;
+}
+	tr{
+		text-align: center;
+		padding: 20px;
+	}
+	
+	
