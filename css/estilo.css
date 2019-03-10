@@ -204,6 +204,8 @@
 		padding:10px;
 		font-size: 14px;
 		text-align: justify;
+		margin-top: 0px;
+		margin-bottom: 0px;
 	}
 	.imytext h1{
 		font-size: 16;
@@ -212,6 +214,8 @@
 	.fl{
 		font-size: 14px;
 		color: #b12a2a;
+		margin-bottom: 0px;
+		margin-top: 0px;
 	}
 
 /*Zona de estilo en el menuBar------------------------*/
