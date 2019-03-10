@@ -81,10 +81,8 @@ div#cabecera{
 /*Estilo de email + foto tipo carnet*/
 .mail_photo{
 	margin: 10px;
-	width: auto;
+	width: 350px;
 	overflow: auto;
-	border-style: double;
-	border-color:  tomato;
 }
 
 .mail_photo img{
@@ -111,7 +109,7 @@ div#cabecera{
 }
 
 .menuLeft h3{
-	background-color: lightgreen;
+	background-color: #6C3339;
 	border-bottom: 1px black;
 	color: white;
 	margin: 0px;
