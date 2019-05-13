@@ -11,7 +11,7 @@
     <h3> Subsecciones detalladas </h3>
     <ul>
       <li><a href="#intro">Introducción</a></li>
-      <li><a href ="#tusu">Tipos de usaurio</a></li>
+      <li><a href="#tusu">Tipos de usaurio</a></li>
       <li><a href="#pyt">Partidas y torneos</a></li>
       <li><a href="#apunt">Cómo apuntarse al torneo</a></li>
       <li><a href="#ranking">Ranking</a></li>
